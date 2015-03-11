@@ -1,0 +1,21 @@
+.foo {
+    /*
+     * @base
+     */
+    font-size: 12px;
+}
+
+.bar {
+    /*
+     * @base
+     * @use .foo
+     */
+    padding : 0;
+}
+
+.baz {
+    /*
+     * @use .bar
+     */
+    margin: 0;
+}

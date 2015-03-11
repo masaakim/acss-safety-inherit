@@ -1,0 +1,27 @@
+{
+  "name": "acss-safety-inherit",
+  "version": "0.0.1",
+  "description": "A ACSS module to inherit other rules safety",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/acss-safety-extend/git"
+  },
+  "keywords": [
+    "acss",
+    "postcss",
+    "plugin",
+    "css"
+  ],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "postcss": "^4.0.6",
+    "postcss-acss-inherit": "0.0.1",
+    "tape": "^3.5.0"
+  }
+}
