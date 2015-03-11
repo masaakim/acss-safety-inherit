@@ -1,11 +1,11 @@
-# acss-safety-extend [![Build Status](https://travis-ci.org/morishitter/acss-safety-extend.svg)](https://travis-ci.org/morishitter/acss-safety-extend)
+# acss-safety-inherit [![Build Status](https://travis-ci.org/morishitter/acss-safety-inherit.svg)](https://travis-ci.org/morishitter/acss-safety-inherit)
 
-safety `@extend` module for ACSS
+safety `@use` module for ACSS
 
 ## Install
 
 ```shell
-$ npm install acss-safety-extend
+$ npm install acss-safety-inherit
 ```
 
 ## License
